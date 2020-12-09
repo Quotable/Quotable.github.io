@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "carousel"
+filename: "carousel"
 ---
 
 images:
