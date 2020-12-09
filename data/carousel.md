@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "carousel"
-filename: "carousel"
+permalink: /data/carousel/
 ---
 
 images:
