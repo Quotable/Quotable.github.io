@@ -1,8 +1,12 @@
 # Welcome to the Quotable app home page!
 
-### [Click Here to download from the Google Play store](https://play.google.com/store/apps/details?id=com.kangaroostudio.quotable)
+##Google Play Downloads
+### [Click Here to download Quotable](https://play.google.com/store/apps/details?id=com.kangaroostudio.quotable)
+### [Click Here to download Quotable Lite](https://play.google.com/store/apps/details?id=com.kangaroostudio.quotablelite)
 
-### [View Privacy Policy](/privacy/)
+### [View Quotable Privacy Policy](/privacy/)
+
+### [View Quotable Lite Privacy Policy](/privacy-free/)
 
 ### Contact the Developer
 - Suggestions
