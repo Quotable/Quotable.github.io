@@ -4,11 +4,11 @@
 ### [Click Here to download Quotable](https://play.google.com/store/apps/details?id=com.kangaroostudio.quotable)
 ### [Click Here to download Quotable Lite](https://play.google.com/store/apps/details?id=com.kangaroostudio.quotablelite)
 
-### [View Quotable Privacy Policy](/privacy/)
+## Privay Policies
+### [Quotable Privacy Policy](/privacy/)
+### [Quotable Lite Privacy Policy](/privacy-free/)
 
-### [View Quotable Lite Privacy Policy](/privacy-free/)
-
-### Contact the Developer
+## Contact the Developer
 - Suggestions
 - Support
 - Connect
